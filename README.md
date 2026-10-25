@@ -7,7 +7,7 @@ Sistem informasi pencarian, booking, dan pembayaran kamar kos.
 **KosHub**
 - Putri Namora (24343019)
 - Nadia Rahma Putri (24343067)
-- Syangithi Aulya (24343069)
+- Syanqithi Aulya (24343069)
 - Muhammad Zulfahmi (24343065)
 - Hasan Muhamad Yasin (24343010)
 
